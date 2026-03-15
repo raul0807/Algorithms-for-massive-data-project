@@ -9,7 +9,7 @@ The code is written in Python 3 and designed to scale efficiently using TensorFl
 
 Click the badge below to open and run the notebook directly in your browser:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raul0807/Algorithms-for-massive-data-project/blob/main/NOME_DEL_TUO_NOTEBOOK.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raul0807/Algorithms-for-massive-data-project/blob/main/Garbage_Recognizer_CNN.ipynb)
 
 ## 📄 Project Report
 The detailed analysis, methodological approach, and experimental results (including Model Selection and hyperparameter tuning) are described in the project report PDF included in this repository.
