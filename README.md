@@ -1,4 +1,4 @@
-# Algorithms-for-massive-data-project
+# Algorithms for massive data project
 # Garbage Recognizer: Image Classification via CNN
 
 This repository contains the project for "Algorithms for Massive Data" course.
