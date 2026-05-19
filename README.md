@@ -10,4 +10,4 @@ The code is written in Python 3 and designed to scale efficiently using TensorFl
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raul0807/Algorithms-for-massive-data-project/blob/main/Garbage_Recognizer_CNN.ipynb)
 
 ##  Project Report
-The detailed analysis, methodological approach, and experimental results (including model selection and hyperparameter tuning) are described in the project report PDF.
+The detailed analysis, methodological approach, and experimental results are described in the project report PDF.
