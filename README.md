@@ -1,5 +1,5 @@
 # Algorithms for massive data project
-# Garbage Recognizer: Image Classification via CNN
+# Garbage recognizer: Image classification via CNN
 
 This repository contains the project for "Algorithms for Massive Data" course.
 The goal of the project is to implement a highly scalable image classification system capable of recognizing 10 different categories of waste using a Deep Convolutional Neural Network (CNN).
